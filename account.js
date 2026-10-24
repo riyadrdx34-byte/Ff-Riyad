@@ -1,12 +1,12 @@
 // =======================================================
-// WEBSITE NAME (𝗕𝗗 𝗧𝗢𝗣 𝗨𝗣 𝗕𝗭𝗔𝗥)
-// ======================================================
-var website_name = "RIYAD";
+// WEBSITE NAME (NICKNAME)
+// =======================================================
+var website_name = "YASIN";
 
 // =======================================================
 // TELEGRAM CHANNEL LINK
 // =======================================================
-var telegram_channel_link = "t. me/micriyad34";
+var telegram_channel_link = "telegram channel link";
 
 // =======================================================
 // TELEGRAM GROUP LINK
@@ -16,7 +16,7 @@ var telegram_group_link = "telegram group link";
 // =======================================================
 // YOUTUBE CHANNEL LINK
 // =======================================================
-var youtube_channel_link = "https://www.youtube.com/@RDXRiyad-ef2dm";
+var youtube_channel_link = "YouTube channel link";
 
 // =======================================================
 // NOTIFICATION TEXT
@@ -24,10 +24,3 @@ var youtube_channel_link = "https://www.youtube.com/@RDXRiyad-ef2dm";
 var notification_text = `সবথেকে কম দামে টপ করার জন্য সেরা ওয়েবসাইট
 ১০০% বিশ্বস্ত ও দ্রুত ডেলিভারিতে
 অর্ডার করুন নিশ্চিন্তে ♥️`;
-সাইট ভালো লাগলে আপনাদের বন্ধু দের কাছে শেয়ার করতে পারে ধন্নবাদ 
-আর কোনো রকম সমস্যা হলে whatsapp  নক করবে নাম্বার 0133896492180 
-আথবা 01908472180 
-// =======================================================
-// বা আমার ফেসবুক আইডি লিংক কোনো রকম সমস্যা হলে ss নিয়ে নক দিবে 
-// facebook link https://www.facebook.com/rdx.riyad.ahmed
-// =======================================================
