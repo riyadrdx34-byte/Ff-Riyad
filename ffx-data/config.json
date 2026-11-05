@@ -8,5 +8,18 @@
     "banner-1793891463082-2529.jpg",
     "banner-1793891594087-9213.jpg"
   ],
-  "quick": null
+  "quick": [
+    {
+      "label": "Telegram",
+      "url": ""
+    },
+    {
+      "label": "Join Group",
+      "url": "https://t.me/+aCbIAA4MWHhkYzA9"
+    },
+    {
+      "label": "YouTube",
+      "url": ""
+    }
+  ]
 }
