@@ -33,6 +33,7 @@
   },
   "prod": {
     "uid": {
+      "name": "(BD) UID TOPUP",
       "title": "(BD) UID TOPUP",
       "pill": "৫সেকেন্ডে টপআপ"
     }
